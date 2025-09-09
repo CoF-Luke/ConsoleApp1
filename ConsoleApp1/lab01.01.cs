@@ -1,5 +1,4 @@
-﻿
-Console.WriteLine("Predefined types and their extreme values:");
+﻿Console.WriteLine("Predefined types and their extreme values:");
 
     Console.WriteLine("\n\tOrdinary numbers:\n");
 
